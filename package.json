@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend/vite-project run dev",
+    "install": "npm --prefix frontend/vite-project install",
+    "build": "npm --prefix frontend/vite-project run build",
+    "preview": "npm --prefix frontend/vite-project run preview"
+  }
+}

@@ -322,4 +322,4 @@ For issues or questions:
 
 ---
 
-**Made with ❤️ for accessibility and communication**
+
